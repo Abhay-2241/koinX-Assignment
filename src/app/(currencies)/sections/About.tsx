@@ -18,7 +18,7 @@ const About = () => {
 			</p>
 
 			<h3 className='text-[#0b1426] text-lg font-bold mb-3'>
-				Crypto trading beast
+				Lorem ipsum dolor sit amet
 			</h3>
 			<p className='text-base font-medium text-[#3e424a] mb-5'>
 				Lorem ipsum dolor sit amet consectetur. Aliquam placerat sit lobortis
