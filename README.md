@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## About Assignment and Myself 
+Myself Abhay Das , 4th Year Undergrad (2025 Batch) , This is frontend Assignment for KoinX. <br><br>
 
-## Getting Started
+## Techstack 
+All the latest Techstack is been used in this project...<br>
+• Nextjs <br>
+• TypeScript <br>
+• Tailwind Css 
+<br><br>
 
-First, run the development server:
+## Requirements Fulfilled 
+• Implemented All of the components given in Figma Design. <br>
+• Used Coingecko's api for fetching bitcoin price. <br>
+• Embedded Trading View Chart.<br>
+• Made Responsive UI.<br>
+• Deployed on Vercel.<br><br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Screenshots of Application UI 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot 2025-01-11 141748](https://github.com/user-attachments/assets/1d409531-80b5-43eb-8261-a7b4e494f6e2)
+![Screenshot 2025-01-11 141802](https://github.com/user-attachments/assets/2afefd48-fe82-4744-aed2-176759485a0e)
+![Screenshot 2025-01-11 141811](https://github.com/user-attachments/assets/7d9e86f0-a70c-4269-9fcb-c9c06ee1b434)
+![Screenshot 2025-01-11 141821](https://github.com/user-attachments/assets/d0174169-61c4-4945-9fa6-88d51ac64a52)
+![Screenshot 2025-01-11 141837](https://github.com/user-attachments/assets/95f7dd0c-84cc-4307-a94d-33e528f90bd6)
+![Screenshot 2025-01-11 141850](https://github.com/user-attachments/assets/1c63919a-2720-4341-88b1-4d7af53f2017)
+![Screenshot 2025-01-11 141858](https://github.com/user-attachments/assets/608621fd-a4d0-4305-9003-5c0a9d252070)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
